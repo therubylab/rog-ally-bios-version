@@ -2,17 +2,17 @@
   "RC71L": {
     "version": "342",
     "title": "BIOS for ASUS EZ Flash Utility",
-    "date": "2025/03/07",
+    "date": "03/07/2025",
     "sha256": "CF9D62E09C4D18261B8592577A74482423ACFBE31183AD4DB9F1428C7D64FD8E",
     "download_url": "/pub/ASUS/IOTHMD/Image/BIOS/119926/RC71LAS342.zip",
-    "last_updated": 1753275971
+    "last_updated": 1753278673
   },
   "RC72LA": {
     "version": "312",
     "title": "BIOS for ASUS EZ Flash Utility",
-    "date": "2025/06/11",
+    "date": "06/11/2025",
     "sha256": "9DD1943B63825A91238AC92661871DFFE9B14AB6477C252A1E41FC6C2BD93CAB",
     "download_url": "/pub/ASUS/IOTHMD/Image/BIOS/121471/RC72LAAS312.zip",
-    "last_updated": 1753275971
+    "last_updated": 1753278673
   }
 }
